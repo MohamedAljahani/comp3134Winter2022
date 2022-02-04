@@ -1,0 +1,11 @@
+the logical endpoints of a network connection that is used to exchange information between a web server and a web client.
+Port numbers range from 0 to 65535
+a number represent 8 bits
+HTTP – Port 80.
+HTTPS – 443.
+FTP – 21.
+FTPS / SSH – 22.
+POP3 – 110.
+POP3 SSL – 995.
+IMAP – 143.
+IMAP SSL – 993.
