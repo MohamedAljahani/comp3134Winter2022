@@ -1,0 +1,4 @@
+64 bytes from 159.203.7.104: icmp_seq=12 ttl=64 time=0.076 ms
+64 bytes from 159.203.7.104: icmp_seq=13 ttl=64 time=0.070 ms
+64 bytes from 159.203.7.104: icmp_seq=14 ttl=64 time=0.061 ms
+64 bytes from 159.203.7.104: icmp_seq=15 ttl=64 time=0.057 ms

@@ -1,0 +1,2 @@
+traceroute to 159.203.7.104 (159.203.7.104), 30 hops max, 60 byte packets
+ 1  ubuntu-s-1vcpu-1gb-tor1-01 (159.203.7.104)  0.035 ms  0.009 ms  0.008 ms
